@@ -1,0 +1,34 @@
+
+header{
+    background-color: teal;
+    color: white;
+    font-family: fantasy;
+    font-style: inherit;
+    font-size: 25px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+p{
+    color: gray;
+    font-family: cursive;
+    font-style: italic;
+    font-size:15px;
+}
+
+b{
+    color: turquoise;
+    font-family: fantasy;
+    font-style: inherit;
+    font-size:19px;
+}
+
+footer{
+    background-color: teal;
+    color: white;
+    font-family: fantasy;
+    font-style: inherit;
+    font-size:20px;
+}
